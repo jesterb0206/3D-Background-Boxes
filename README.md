@@ -15,11 +15,11 @@
 
 <br>
 
-![3D Background Boxes]()
+![3D Background Boxes](images/3D-Background-Boxes.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/3D-Background-Boxes/)
 
 <br>
 
